@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="laba1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="33"/>
+        <CursorPos X="3" Y="45"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\..\..\..\..\Desktop\инфа\geometry.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Geometry"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="16" Y="95"/>
+        <UsageCount Value="29"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="geometry.pas"/>
+        <UnitName Value="Geometry"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="21" Y="130"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
