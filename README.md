@@ -1,1 +1,1 @@
-# lab1 on course of Informatics at BMSTU
+# lab1 of 2nd term on course of Informatics at BMSTU
