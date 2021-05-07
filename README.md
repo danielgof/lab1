@@ -1,1 +1,1 @@
-# laba1
+# lab1 on course of Informatics at BMSTU
